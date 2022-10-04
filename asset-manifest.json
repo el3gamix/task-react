@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/task-react.git/static/css/main.42b12690.css",
-    "main.js": "/task-react.git/static/js/main.71ba2bfe.js",
-    "static/js/787.64bbb8a4.chunk.js": "/task-react.git/static/js/787.64bbb8a4.chunk.js",
-    "static/media/loading.gif": "/task-react.git/static/media/loading.a1a996746e5e48352c81.gif",
-    "index.html": "/task-react.git/index.html",
-    "main.42b12690.css.map": "/task-react.git/static/css/main.42b12690.css.map",
-    "main.71ba2bfe.js.map": "/task-react.git/static/js/main.71ba2bfe.js.map",
-    "787.64bbb8a4.chunk.js.map": "/task-react.git/static/js/787.64bbb8a4.chunk.js.map"
+    "main.css": "./static/css/main.42b12690.css",
+    "main.js": "./static/js/main.9ea3e361.js",
+    "static/js/787.64bbb8a4.chunk.js": "./static/js/787.64bbb8a4.chunk.js",
+    "static/media/loading.gif": "./static/media/loading.a1a996746e5e48352c81.gif",
+    "index.html": "./index.html",
+    "main.42b12690.css.map": "./static/css/main.42b12690.css.map",
+    "main.9ea3e361.js.map": "./static/js/main.9ea3e361.js.map",
+    "787.64bbb8a4.chunk.js.map": "./static/js/787.64bbb8a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.42b12690.css",
-    "static/js/main.71ba2bfe.js"
+    "static/js/main.9ea3e361.js"
   ]
 }
